@@ -1,6 +1,0 @@
-PLAN JAK MA WYGLADAC GRA
-
-1. Dynamiczne tworzenie oraz pojawienie sie i przesuniecie pionkow na swoje miejsca.
-2. Losowe wybieranie kto rozpoczyna gre.
-3. Mozliwosc przesuwania pionkow podczas swojego ruchu po dozwolonych polach:
-4. Zmiana gracza co ture.
